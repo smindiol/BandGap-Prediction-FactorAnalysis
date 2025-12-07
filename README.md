@@ -28,16 +28,6 @@ The workflow includes:
 * **Scikit-Learn:** Preprocessing, data splitting, and Machine Learning models (SVR, RF, GBM).
 * **Matplotlib & Seaborn:** Visualization of factor loadings, decision surfaces, and residuals.
 
-## 📂 Repository Structure
-
-* `/data`: Contains the processed dataset (optional).
-* `/notebooks`: Jupyter Notebooks with the step-by-step analysis:
-    * `01_Cleaning_and_FeatureEngineering.ipynb`
-    * `02_Factor_Analysis.ipynb`
-    * `03_Target_Transformation.ipynb`
-    * `04_Modeling_and_Evaluation.ipynb`
-* `/src`: Helper scripts and functions.
-
 ## 📄 Reference
 
 Based on data and initial methodology from:
